@@ -1,0 +1,14 @@
+https://owasp-noir.github.io/noir/                                  Seguridad - Muestra los errores en los endpoints
+
+Lazy
+https://github.com/jorgerojas26/lazysql?tab=readme-ov-file          Posible plugin para ver base de datos sql
+https://github.com/pmizio/typescript-tools.nvim                     Posible plugin de typescript de ayuda para el lsp
+https://blog.ffff.lt/posts/typescript-and-neovim-lsp-2024/          Configuracion de typescript y lsp ( mmm... )
+
+
+Node
+https://gist.github.com/Klerith/47af527da090043f604b972b22dd4c01    "Cheat sheet" para app de node
+https://gist.github.com/Klerith/98d7b1bc0f1525e892f260813cad1007    "Cheat sheet" para node y jest
+https://gist.github.com/Klerith/3ba17e86dc4fabd8301a59699b9ffc0b    "Cheat sheet" simplificado de node
+https://codingdojo.org/kata/                                        Ejercicios para practicar TDD
+https://the-amazing-gentleman-programming-book.vercel.app/es/book/Chapter01_Clean-Agile         Lectura sobre clean code

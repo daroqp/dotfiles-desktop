@@ -1,0 +1,14 @@
+
+# # Empty values are used to reset config keys to default.
+# key =
+# Config syntax crash course
+# ==========================
+font-family = JetBrains Mono
+font-size = 16
+theme = catppuccin-mocha.conf
+maximize = true
+window-decoration = false
+mouse-hide-while-typing = true
+background-blur-radius = 20
+window-padding-x = 2
+shell-integration = fish
