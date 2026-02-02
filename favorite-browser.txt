@@ -19,3 +19,7 @@ https://blog.amanpreet.dev/test-driven-development-with-typescript-for-beginners
 Pattern design
 https://www.patterns.dev/
 https://refactoring.guru/es/design-patterns/catalog
+
+
+tsconfig
+https://www.totaltypescript.com/tsconfig-cheat-sheet
