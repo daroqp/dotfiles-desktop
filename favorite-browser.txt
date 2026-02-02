@@ -15,3 +15,7 @@ https://the-amazing-gentleman-programming-book.vercel.app/es/book/Chapter01_Clea
 
 Programacion general
 https://blog.amanpreet.dev/test-driven-development-with-typescript-for-beginners#heading-introduction-to-tdd    Sobre TDD
+
+Pattern design
+https://www.patterns.dev/
+https://refactoring.guru/es/design-patterns/catalog
